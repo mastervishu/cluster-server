@@ -1,6 +1,3 @@
-Creating a README for your Express cluster server involves providing clear and concise information about what the project does, how to set it up, and how to use it. Below is a template that you can customize according to your project's specifics.
-
----
 
 # Cluster Server Application
 
